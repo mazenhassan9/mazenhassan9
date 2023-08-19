@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, Here is Mazen Hassan</h1>
-<b align="center">I am studying Communication and Information engineering student at Zewail City, Believing in life long learning journey, and a TensorFlow Certified Developer from Google with 3 Years of experience in the Data Science Field, Seeking a challenging opportunity to improve my skills in the Data Science Field and specifically Deep Learning. .</b>
+<b align="center">I graduated in Communication and Information Engineering  at Zewail City, Believing in life long learning journey, and a TensorFlow Certified Developer from Google with 3 Years of experience in the Data Science Field, Seeking a challenging opportunity to improve my skills in the Data Science Field and specifically Deep Learning. .</b>
 
 
 - 🌱 I’m currently learning: Deep Learning
 
-- 💬 Ask me about: Python, R, Statistics, Numpy, Pandas, Matplotlib, SQL, Keras & TensorFlow.
+- 💬 Ask me about Python, R, Statistics, Numpy, Pandas, Matplotlib, SQL, Keras & TensorFlow.
 
 - 📫 How to reach me **mazen.a.hassan99@gmail.com**
 
